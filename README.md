@@ -11,5 +11,8 @@ git clone https://github.com/ePSA-eJya/legal-corner.git
 ```
 run
 ```
+npm I
+```
+```
 npm start
 ```
